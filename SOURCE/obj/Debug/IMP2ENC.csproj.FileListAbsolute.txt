@@ -1,0 +1,8 @@
+C:\imp2enc\SOURCE\bin\Debug\IMP2ENC.exe.config
+C:\imp2enc\SOURCE\bin\Debug\IMP2ENC.exe
+C:\imp2enc\SOURCE\bin\Debug\IMP2ENC.pdb
+C:\imp2enc\SOURCE\obj\Debug\IMP2ENC.exe
+C:\imp2enc\SOURCE\obj\Debug\IMP2ENC.pdb
+C:\imp2enc\SOURCE\bin\Debug\FreeImageNET.dll
+C:\imp2enc\SOURCE\bin\Debug\FreeImageNET.pdb
+C:\imp2enc\SOURCE\obj\Debug\IMP2ENC.csprojResolveAssemblyReference.cache

@@ -1,0 +1,15 @@
+c:\impdecoder\ConsoleApplication1\ConsoleApplication1\bin\Debug\IMP2DEC.exe.config
+c:\impdecoder\ConsoleApplication1\ConsoleApplication1\bin\Debug\IMP2DEC.exe
+c:\impdecoder\ConsoleApplication1\ConsoleApplication1\bin\Debug\IMP2DEC.pdb
+c:\impdecoder\ConsoleApplication1\ConsoleApplication1\obj\Debug\IMP2DEC.exe
+c:\impdecoder\ConsoleApplication1\ConsoleApplication1\obj\Debug\IMP2DEC.pdb
+c:\impdecoder\ConsoleApplication1\ConsoleApplication1\obj\Debug\IMP2DEC.csprojResolveAssemblyReference.cache
+C:\IMP2DEC\SOURCE\bin\Debug\IMP2DEC.exe.config
+C:\IMP2DEC\SOURCE\obj\Debug\IMP2DEC.exe
+C:\IMP2DEC\SOURCE\obj\Debug\IMP2DEC.pdb
+C:\IMP2DEC\SOURCE\bin\Debug\IMP2DEC.exe
+C:\IMP2DEC\SOURCE\bin\Debug\IMP2DEC.pdb
+C:\IMP2DEC\SOURCE\obj\Debug\IMP2DEC.csprojResolveAssemblyReference.cache
+C:\imp2enc\SOURCE\bin\Debug\IMP2DEC.exe.config
+C:\imp2enc\SOURCE\obj\Debug\IMP2DEC.exe
+C:\imp2enc\SOURCE\obj\Debug\IMP2DEC.pdb
